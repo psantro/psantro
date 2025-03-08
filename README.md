@@ -1,6 +1,7 @@
 # ✨ Welcome to My GitHub! ✨
 
-I’m **Pablo Sánchez Troncoso**, a computer science student from Seville.
+I’m **Pablo Sánchez Troncoso**, a fourth year **computer science student**
+at Pablo de Olavide University.
 
 Feel free to browse through my repositories
 and see what I've been working on! 🚀  
@@ -10,12 +11,6 @@ and see what I've been working on! 🚀
 I enjoy dedicating my free time to personal projects that challenge my skills.
 These projects allow me to explore new ideas, apply concepts learned in class,
 and expand my knowledge of these topics.
-
-### **🎓 Education**
-
-I'm currently in my fourth year
-of **Ingeniería Informática en Sistemas de Información (Computer Science)**
-at **Pablo de Olavide University**.
 
 ### **💻 Interests**
 
