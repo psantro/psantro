@@ -27,5 +27,4 @@ and make it easily accessible to potential employers.
 
 Here’s where you can connect with me:
 
-- 🌐 **[Website](https://psantro.github.io/)**
 - 💼 **[LinkedIn](https://www.linkedin.com/in/pablo-sanchez-troncoso/)**
