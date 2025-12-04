@@ -1,4 +1,4 @@
-# Welcome to My GitHub ✨
+# ✨ Welcome to My GitHub ✨
 
 I’m **Pablo Sánchez Troncoso**, a fourth year **computer science student**
 at Pablo de Olavide University.
