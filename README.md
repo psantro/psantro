@@ -29,10 +29,8 @@ I particularly enjoy projects that give the **freedom to apply knowledge** gaine
 
 ### 🛠 Current Projects
 
-I’m currently developing a **personal website** to showcase my profile, projects, and experience.  
+I’m currently developing a **personal website** (see **[psantro.github.io](https://github.com/psantro/psantro.github.io)** repository) to showcase my profile, projects, and experience.  
 The goal is to make it easier for potential employers and collaborators to get to know my work.
-
-See **[psantro.github.io](https://github.com/psantro/psantro.github.io)** repository.
 
 ## 📫 Contact Me
 
