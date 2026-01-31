@@ -2,7 +2,7 @@
 
 Hi! I’m **Pablo Sánchez Troncoso**, a **final-year Computer Science student** at **Pablo de Olavide University**.
 
-This GitHub is where I share my personal projects, experiments, and ideas.
+This GitHub is where I share my personal projects, and ideas.
 Feel free to explore my repositories and see what I’ve been building! 🚀
 
 ## 🕵️‍♂️ Where to Find Me
