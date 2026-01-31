@@ -27,4 +27,4 @@ and make it easily accessible to potential employers.
 
 Here’s where you can connect with me:
 
-- 💼 **[LinkedIn](https://www.linkedin.com/in/pablo-sanchez-troncoso/)**
+- 💼 **[LinkedIn](https://www.linkedin.com/in/psantro/)**
