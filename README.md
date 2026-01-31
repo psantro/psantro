@@ -7,7 +7,7 @@ Feel free to explore my repositories and see what I’ve been building! 🚀
 
 ## 🕵️‍♂️ Where to Find Me
 
-- 🌐 **[Digital Resume / Portfolio](https://psantro.github.io/)**
+- 🌐 **[Digital Resume / Portfolio](https://psantro.github.io/)** (**WIP**)
 - 💼 **[LinkedIn](https://www.linkedin.com/in/psantro/)**
 
 ## 👨‍💻 About Me
@@ -29,7 +29,7 @@ I particularly enjoy projects that give the **freedom to apply knowledge** gaine
 
 ### 🛠 Current Projects
 
-I’m currently developing a **personal website** (see **[psantro.github.io](https://github.com/psantro/psantro.github.io)** repository) to showcase my profile, projects, and experience.  
+I’m currently developing a **personal website** (see **[psantro.github.io](https://github.com/psantro/psantro.github.io)** repository) (**currently undeployed**) to showcase my profile, projects, and experience.  
 The goal is to make it easier for potential employers and collaborators to get to know my work.
 
 ## 📫 Contact Me
