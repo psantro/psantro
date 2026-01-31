@@ -7,7 +7,7 @@ Feel free to explore my repositories and see what I’ve been building! 🚀
 
 ## 🕵️‍♂️ Where to Find Me
 
-- 🌐 **[Digital Resume / Portfolio](https://psantro.github.io/)** (**WIP**)
+- 🌐 **[Digital Resume / Portfolio](https://psantro.github.io/)** (**WIP🚧**)
 - 💼 **[LinkedIn](https://www.linkedin.com/in/psantro/)**
 
 ## 👨‍💻 About Me
