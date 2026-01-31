@@ -2,7 +2,8 @@
 
 Hi! I’m **Pablo Sánchez Troncoso**, a **final-year Computer Science student** at **Pablo de Olavide University**.
 
-This GitHub is where I share my personal projects, experiments, and ideas. Feel free to explore my repositories and see what I’ve been building! 🚀
+This GitHub is where I share my personal projects, experiments, and ideas.
+Feel free to explore my repositories and see what I’ve been building! 🚀
 
 ## 🕵️‍♂️ Where to Find Me
 
@@ -30,6 +31,7 @@ I particularly enjoy projects that give the **freedom to apply knowledge** gaine
 
 I’m currently developing a **personal website** to showcase my profile, projects, and experience.  
 The goal is to make it easier for potential employers and collaborators to get to know my work.
+
 See **[psantro.github.io](https://github.com/psantro/psantro.github.io)** repository.
 
 ## 📫 Contact Me
