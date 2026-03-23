@@ -29,7 +29,7 @@ I particularly enjoy projects that give the **freedom to apply knowledge** gaine
 
 ### 🛠 Current Projects
 
-I’m currently developing selenium test suite for the [UPO EPS Website](https://www.upo.es/escuela-politecnica-superior/es/), see **[psantro.github.io](https://github.com/psantro/web-ui-regression-tests)** repository (currently private).
+I’m currently developing selenium test suite for the [UPO EPS Website](https://www.upo.es/escuela-politecnica-superior/es/), see **[web-ui-regression-tests](https://github.com/psantro/web-ui-regression-tests)** repository (currently private).
 
 ## 📫 Contact Me
 
